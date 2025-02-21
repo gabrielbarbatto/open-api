@@ -2,7 +2,7 @@
   "subdomain": "test-scalar.apidocumentation.com",
   "references": [
     {
-      "name": "API Reference",
+      "name": "API Reference Schema",
       "path": "v1/schema.yaml"
     }
   ],
