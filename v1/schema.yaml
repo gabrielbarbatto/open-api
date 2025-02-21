@@ -1,7 +1,7 @@
 ---
 openapi: 3.0.1
 info:
-  title: Test API
+  title: Test
   version: v1
 paths:
   "/connect/deliveries":
