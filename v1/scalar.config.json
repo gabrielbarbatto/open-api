@@ -1,6 +1,11 @@
 {
   "subdomain": "test-scalar.apidocumentation.com",
-  "references": [],
+  "references": [
+    {
+      "name": "API Reference",
+      "path": "v1/schema.yaml"
+    }
+  ],
   "guides": [],
   "publishOnMerge": true
 }
